@@ -1,3 +1,15 @@
+a {
+    margin: 1em;
+    text-decoration: none;
+    background-color: rgb(253, 255, 145);
+    padding: 1em;
+}
+
+.pages {
+    background-color: lightskyblue;
+    padding: 1em;
+}
+
 body {
     background-color: rgb(201, 219, 253);
 }
