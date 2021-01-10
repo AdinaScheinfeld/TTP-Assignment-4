@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(196, 217, 255);
+    text-align: center;
+}
+
+form{
+    background-color: rgb(235, 237, 100);
+    padding-top: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 3em;
+    display: inline-block;
+}
+
+input {
+    margin-bottom: 3em;
+}
+
+#submit {
+    margin-bottom: 0;
+}
