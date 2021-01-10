@@ -1,0 +1,17 @@
+body {
+    margin:0;
+    background-color: rgb(220, 230, 230);
+}
+
+.container{
+    background-color: rgb(186, 223, 223);
+    padding: 5em;
+    padding-left: 45%;
+    margin-top: 5em;
+}
+
+buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
